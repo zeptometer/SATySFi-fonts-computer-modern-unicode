@@ -52,5 +52,5 @@
 
     /* Computer Modern Typewriter Light */
     "fonts-computer-modern:CMU-Typewriter-Text-Light" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbtl.ttf"}>,
-    "fonts-computer-modern:CMU-Typewriter-Text-LightOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbto.ttf"}>,
+    "fonts-computer-modern:CMU-Typewriter-Text-LightOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbto.ttf"}>
 }

@@ -1,10 +1,9 @@
 (version 0.0.2)
 (library
-  (name "fonts-dejavu")
+  (name "fonts-computer-modern")
   (version "2.37")
   (sources
     ((hash "fonts.satysfi-hash" "fonts.satysfi-hash")
-     (hash "mathfonts.satysfi-hash" "mathfonts.satysfi-hash")
      (font "cmunbbx.ttf" "computer-modern/cmunbbx.ttf")
      (font "cmunbi.ttf" "computer-modern/cmunbi.ttf")
      (font "cmunbl.ttf" "computer-modern/cmunbl.ttf")
@@ -37,13 +36,13 @@
      (font "cmunvi.ttf" "computer-modern/cmunvi.ttf")
      (font "cmunvt.ttf" "computer-modern/cmunvt.ttf")
 ))
-  (opam "satysfi-fonts-dejavu.opam"))
+  (opam "satysfi-fonts-computer-modern.opam"))
 (libraryDoc
-  (name "fonts-dejavu-doc")
+  (name "fonts-computer-modern-doc")
   (version "2.37")
   (build
-    ((satysfi "doc-fonts-dejavu.saty" "-o" "doc-fonts-dejavu.pdf")))
+    ((satysfi "doc-fonts-computer-modern.saty" "-o" "doc-fonts-computer-modern.pdf")))
   (sources
-    ((doc "doc-fonts-dejavu.pdf" "./doc-fonts-dejavu.pdf")))
-  (opam "satysfi-fonts-dejavu-doc.opam")
-  (dependencies ((fonts-dejavu ()))))
+    ((doc "doc-fonts-computer-modern.pdf" "./doc-fonts-computer-modern.pdf")))
+  (opam "satysfi-fonts-computer-modern-doc.opam")
+  (dependencies ((fonts-computer-modern ()))))

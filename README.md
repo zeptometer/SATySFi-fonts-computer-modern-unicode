@@ -1,5 +1,5 @@
-# SATySFi-Fonts-DejaVu
-[SATySFi](https://github.com/gfngfn/SATySFi) Font Library with [Satyrographos](https://github.com/na4zagin3/satyrographos): [DejaVu Fonts](https://dejavu-fonts.github.io/)
+# SATySFi-fonts-computer-modern
+[SATySFi](https://github.com/gfngfn/SATySFi) Font Library with [Satyrographos](https://github.com/na4zagin3/satyrographos): Donald Knuth's [Computer Modern](https://www.checkmyworking.com/cm-web-fonts/)
 
 To use this font, please install this package followed by `satyrographos install`.
 
@@ -7,10 +7,10 @@ To use this font, please install this package followed by `satyrographos install
 ### Install SATySFi & Satyrographos
 If you don't have them, please install them with this [instruction](https://github.com/na4zagin3/satyrographos).
 
-### Install SATySFi-Fonts-DejaVu
+### Install SATySFi-fonts-computer-modern
 ```sh
-$ opam pin add "git+https://github.com/zeptometer/SATySFi-fonts-dejavu.git"
-$ opam install satysfi-fonts-dejavu
+$ opam pin add "git+https://github.com/zeptometer/SATySFi-fonts-computer-modern.git"
+$ opam install satysfi-fonts-computer-modern
 $ satyrographos install
 ```
 
@@ -38,7 +38,7 @@ This package install the following fonts.
 |-------------------------------------------------|---------------|
 | fonts-computer-modern:CMU-Serif-Upwright-Italic | cmunui.ttf    |
 
-### Computer Modern Classical Serif Itali
+### Computer Modern Classical Serif Italic
 | SATySFi Font Name                                | Font Filename |
 |--------------------------------------------------|---------------|
 | fonts-computer-modern:CMU-Classical-Serif-Italic | cmunci.ttf    |
@@ -95,5 +95,5 @@ This package install the following fonts.
 ### Computer Modern Typewriter Light
 | SATySFi Font Name                                      | Font Filename |
 |--------------------------------------------------------|---------------|
-| fonts-computer-modern:CMU-Typewriter-Text-Light        | cmunbtl.ttf    |
-| fonts-computer-modern:CMU-Typewriter-Text-LightOblique | cmunbto.ttf    |
+| fonts-computer-modern:CMU-Typewriter-Text-Light        | cmunbtl.ttf   |
+| fonts-computer-modern:CMU-Typewriter-Text-LightOblique | cmunbto.ttf   |
