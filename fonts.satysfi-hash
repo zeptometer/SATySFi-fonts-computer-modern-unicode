@@ -1,56 +1,35 @@
 {
-    /* Computer Modern Serif */
-    "fonts-computer-modern:CMU-Serif-Roman" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunrm.ttf"}>,
-    "fonts-computer-modern:CMU-Serif-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbx.ttf"}>,
-    "fonts-computer-modern:CMU-Serif-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunti.ttf"}>,
-    "fonts-computer-modern:CMU-Serif-BoldItalic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbi.ttf"}>,
-
-    /* Computer Modern Serif Slanted */
-    "fonts-computer-modern:CMU-Serif-Extra-BoldSlanted" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbl.ttf"}>,
-    "fonts-computer-modern:CMU-Serif-Extra-RomanSlanted" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunsl.ttf"}>,
-
-    /* Computer Modern Serif Upright Italic */
-    "fonts-computer-modern:CMU-Serif-Upwright-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunui.ttf"}>,
-
-    /* Computer Modern Classical Serif Italic*/
-    "fonts-computer-modern:CMU-Classical-Serif-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunci.ttf"}>,
-
-    /* Computer Modern Concrete */
-    "fonts-computer-modern:CMU-Concrete-Roman" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunorm.ttf"}>,
-    "fonts-computer-modern:CMU-Concrete-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunobx.ttf"}>,
-    "fonts-computer-modern:CMU-Concrete-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunoti.ttf"}>,
-    "fonts-computer-modern:CMU-Concrete-BoldItalic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunobi.ttf"}>,
-
-    /* Computer Modern Sans */
-    "fonts-computer-modern:CMU-Sans-Serif-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunsx.ttf"}>,
-    "fonts-computer-modern:CMU-Sans-Serif-Oblique" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunsi.ttf"}>,
-    "fonts-computer-modern:CMU-Sans-Serif-BoldOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunso.ttf"}>,
-    "fonts-computer-modern:CMU-Sans-Serif-Medium" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunss.ttf"}>,
-
-    /* Computer Modern Sans Demi-Condensed */
-    "fonts-computer-modern:CMU-Sans-Serif-Demi-Condensed" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunssdc.ttf"}>,
-
-    /* Computer Modern Bright */
-    "fonts-computer-modern:CMU-Bright-Roman" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbmr.ttf"}>,
-    "fonts-computer-modern:CMU-Bright-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbbx.ttf"}>,
-    "fonts-computer-modern:CMU-Bright-Oblique" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbmo.ttf"}>,
-    "fonts-computer-modern:CMU-Bright-BoldOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbxo.ttf"}>,
-
-    /* Computer Modern Bright Semibold */
-    "fonts-computer-modern:CMU-Bright-SemiBold" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbsr.ttf"}>,
-    "fonts-computer-modern:CMU-Bright-SemiBoldOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbso.ttf"}>,
-
-    /* Computer Modern Typewriter */
-    "fonts-computer-modern:CMU-Typewriter-Text-Regular" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmuntt.ttf"}>,
-    "fonts-computer-modern:CMU-Typewriter-Text-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunit.ttf"}>,
-    "fonts-computer-modern:CMU-Typewriter-Text-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmuntb.ttf"}>,
-    "fonts-computer-modern:CMU-Typewriter-Text-BoldItalic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmuntx.ttf"}>,
-
-    /* Computer Modern Typewriter Variable */
-    "fonts-computer-modern:CMU-Typewriter-Text-Variable-Width-Medium" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunvt.ttf"}>,
-    "fonts-computer-modern:CMU-Typewriter-Text-Variable-Width-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunvi.ttf"}>,
-
-    /* Computer Modern Typewriter Light */
-    "fonts-computer-modern:CMU-Typewriter-Text-Light" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbtl.ttf"}>,
-    "fonts-computer-modern:CMU-Typewriter-Text-LightOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern/cmunbto.ttf"}>
+  "fonts-computer-modern-unicode:CMUBright-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbbx.ttf"}>,
+  "fonts-computer-modern-unicode:CMUBright-BoldOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbxo.ttf"}>,
+  "fonts-computer-modern-unicode:CMUBright-Oblique" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbmo.ttf"}>,
+  "fonts-computer-modern-unicode:CMUBright-Roman" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbmr.ttf"}>,
+  "fonts-computer-modern-unicode:CMUBright-SemiBold" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbsr.ttf"}>,
+  "fonts-computer-modern-unicode:CMUBright-SemiBoldOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbso.ttf"}>,
+  "fonts-computer-modern-unicode:CMUClassicalSerif-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunci.ttf"}>,
+  "fonts-computer-modern-unicode:CMUConcrete-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunobx.ttf"}>,
+  "fonts-computer-modern-unicode:CMUConcrete-BoldItalic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunobi.ttf"}>,
+  "fonts-computer-modern-unicode:CMUConcrete-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunoti.ttf"}>,
+  "fonts-computer-modern-unicode:CMUConcrete-Roman" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunorm.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSansSerif" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunss.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSansSerif-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunsx.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSansSerif-BoldOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunso.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSansSerif-DemiCondensed" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunssdc.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSansSerif-Oblique" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunsi.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSerif-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbx.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSerif-BoldItalic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbi.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSerif-BoldNonextended" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunrb.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSerif-BoldSlanted" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbl.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSerif-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunti.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSerif-Roman" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunrm.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSerif-RomanSlanted" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunsl.ttf"}>,
+  "fonts-computer-modern-unicode:CMUSerif-UprightItalic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunui.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriter-Bold" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmuntb.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriter-BoldItalic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmuntx.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriter-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunit.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriter-Light" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbtl.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriter-LightOblique" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunbto.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriter-Oblique" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunst.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriter-Regular" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmuntt.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriterVariable" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunvt.ttf"}>,
+  "fonts-computer-modern-unicode:CMUTypewriterVariable-Italic" : <Single: {"src": "dist/fonts/fonts-computer-modern-unicode/cmunvi.ttf"}>
 }
