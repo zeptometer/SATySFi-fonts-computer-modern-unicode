@@ -48,4 +48,5 @@
   (sources
     ((doc "doc-fonts-computer-modern-unicode.pdf" "./doc-fonts-computer-modern-unicode.pdf")))
   (opam "satysfi-fonts-computer-modern-unicode-doc.opam")
-  (dependencies ((fonts-computer-modern-unicode ()))))
+  (dependencies ((base ())
+                 (fonts-computer-modern-unicode ()))))
